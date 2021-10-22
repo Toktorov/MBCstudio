@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     #apps
     'apps.portfolios',
+    'apps.teams',
 ]
 
 MIDDLEWARE = [
